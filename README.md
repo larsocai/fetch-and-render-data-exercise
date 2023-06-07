@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Fetch & Render Data Exercise
+
+The exercise involves fetching and rendering data from the Game of Thrones API in a React application. It fetches data from the Game of Thrones API, allows users to search for characters, and displays the matching results in paginated format.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
